@@ -1,0 +1,5 @@
+# TEDxCentralUniversity robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://tedxcentraluniversity.com/sitemap.xml
