@@ -1,7 +1,7 @@
 // Countdown, responsive navigation, and waitlist form for TEDxCentralUniversity.
 
-// November 15, 2026 at 10:00 AM in Africa/Accra (UTC+00:00).
-const EVENT_DATE = new Date('2026-11-15T10:00:00+00:00').getTime();
+// November 28, 2026 at 9:00 AM in Africa/Accra (UTC+00:00).
+const EVENT_DATE = new Date('2026-11-28T09:00:00+00:00').getTime();
 let countdownInterval;
 
 function updateCountdown() {
